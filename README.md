@@ -8,8 +8,8 @@
 
 ## Пайдаланушылар
 
-- Турист
-- Әкімші (контентті басқарады)
+* Турист
+* Әкімші (контентті басқарады)
 
 ## Талаптар
 
@@ -23,7 +23,29 @@
 8. Жүйе көрікті жерлер туралы деректерді деректер қорында сақтайды.
 
 
+
 ## Құжаттама
 
-- [Activity: маршрут құру](docs/analysis/activity-build-route.png)
-- [Sequence: маршрут құру](docs/analysis/sequence-build-route.png)
+* [Activity: маршрут құру](docs/analysis/activity-build-route.png)
+* [Sequence: маршрут құру](docs/analysis/sequence-build-route.png)
+
+
+
+\### Талдау (docs/analysis)
+
+\- Контекстік DFD: \[dfd-context.png](docs/analysis/dfd-context.png) (\[.drawio](docs/analysis/dfd-context.drawio))
+
+\- DFD 0-деңгей: \[dfd-level0.png](docs/analysis/dfd-level0.png) (\[.drawio](docs/analysis/dfd-level0.drawio))
+
+\- DFD 1-деңгей (2.0 Маршрутты құру): \[dfd-level1.png](docs/analysis/dfd-level1.png) (\[.drawio](docs/analysis/dfd-level1.drawio))
+
+
+
+\### Деректер қоры (docs/database)
+
+\- ERD: \[erd.png](docs/database/erd.png) (\[.drawio](docs/database/erd.drawio))
+
+\- SQL скрипті: \[schema.sql](docs/database/schema.sql)
+
+\- Сұраныс нәтижелері: \[query-results.png](docs/database/query-results.png)
+
